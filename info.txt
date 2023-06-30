@@ -1,0 +1,9 @@
+#
+Name: LOSER
+Path: 86268206
+Song: 86268206.mp3
+Picture: 86268206.JPG
+Chart: 86268206.json
+Level: XY Lv.13
+Composer: 米津玄师
+Charter: Xiaoyang_qwq~
